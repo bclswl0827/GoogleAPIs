@@ -1,6 +1,0 @@
-{
-	"name": "GoogleAPIs",
-	"description": "Mirror of www.googleapis.com",
-	"keywords": ["GoogleAPIs"],
-	"stack": "container"
-}
